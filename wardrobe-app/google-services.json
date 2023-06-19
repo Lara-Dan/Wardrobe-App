@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19881156676",
+    "project_id": "wardrobe-app-54455",
+    "storage_bucket": "wardrobe-app-54455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19881156676:android:0b046d2fae791afd1fdc11",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19881156676-ub8322evittembv18049u8e48q1ckasf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbL3VYumAt4xGBnyhGH6-6pCZIdId6Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19881156676-ub8322evittembv18049u8e48q1ckasf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
